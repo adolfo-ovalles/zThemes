@@ -64,7 +64,7 @@ Developers interested in contributing to FontForge are welcome to explore these 
 
 ## Source Files
 
-To support community contributions, the repository provides [PSD source files](releases/latest) containing all original icon shapes, fully editable layers, and pre-configured layer comps with export filenames.
+To support community contributions, the repository provides [PSD source files release](https://github.com/adolfo-ovalles/zThemes/releases) containing all original icon shapes, fully editable layers, and pre-configured layer comps with export filenames.
 
 > [!NOTE]
 > The source files ensure **zThemes** can continue to grow with FontForge, even without my direct involvement.
