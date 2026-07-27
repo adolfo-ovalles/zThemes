@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #d4d4d4;
+      }
+
+      .cls-3 {
+        fill: #2d2d2d;
+      }
+
+      .cls-4 {
+        fill: #999;
+      }
+    </style>
+  </defs>
+  <path class="cls-4" d="M3,5v10c0,.552.448,1,1,1h12c.55,0,1-.45,1-1V5c0-.552-.448-1-1-1H4c-.55,0-1,.45-1,1Z"/>
+  <rect class="cls-3" x="4" y="4.979" width="12" height="10.041"/>
+  <g>
+    <path class="cls-2" d="M6.205,6.985h-.853v-1.279h.853v1.279Z"/>
+    <path class="cls-2" d="M8.212,6.985h-.853v-1.279h.853v1.279Z"/>
+    <path class="cls-2" d="M10.217,6.985h-.853v-1.279h.853v1.279Z"/>
+    <path class="cls-2" d="M12.224,6.985h-.853v-1.279h.853v1.279Z"/>
+    <path class="cls-2" d="M14.23,6.985h-.852v-1.279h.852v1.279Z"/>
+    <path class="cls-2" d="M6.205,14.293h-.853v-1.279h.853v1.279Z"/>
+    <path class="cls-2" d="M8.213,14.293h-.854v-1.279h.854v1.279Z"/>
+    <path class="cls-2" d="M10.221,14.293h-.852v-1.279h.852v1.279Z"/>
+    <path class="cls-2" d="M12.229,14.293h-.853v-1.279h.853v1.279Z"/>
+    <path class="cls-2" d="M14.237,14.293h-.854v-1.279h.854v1.279Z"/>
+  </g>
+  <path class="cls-1" d="M8.57,7.724l3.648,2.065c.165.093.166.33.002.425l-3.647,2.117c-.252.146-.568-.036-.568-.327v-3.951c0-.289.312-.471.564-.329Z"/>
+</svg>

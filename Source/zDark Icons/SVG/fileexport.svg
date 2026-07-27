@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #d4d4d4;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-2" d="M14.252,14.575c-.69,0-1.252-.561-1.252-1.25v-.324h-4v-5h4v-.324c0-.689.562-1.25,1.252-1.25.273,0,.534.09.748.251v-.676h-4V2h-6v14h10v-1.676c-.213.161-.475.251-.748.251Z"/>
+    <polygon class="cls-2" points="12 2 12 5 15 5 12 2"/>
+  </g>
+  <path class="cls-1" d="M14.44,7.513c-.151-.176-.44-.069-.44.163v1.324h-4v3h4v1.324c0,.232.289.339.44.163l2.56-2.987-2.56-2.987Z"/>
+</svg>

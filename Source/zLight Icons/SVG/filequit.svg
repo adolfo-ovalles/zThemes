@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zLight" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3a3a;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="7 2 7 6 8.5 6 8.5 3 15 3 11 5 11 13 8.5 13 8.5 11 7 11 7 14 11 14 11 16 17 13 17 2 7 2"/>
+  <path class="cls-1" d="M9,9.5v-2h-3.5v-1.896c0-.223-.269-.334-.427-.177l-3.073,3.073,3.073,3.073c.158.158.427.046.427-.177v-1.896h3.5Z"/>
+</svg>

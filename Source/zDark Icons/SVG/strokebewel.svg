@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d4d4d4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M16.25,8h-1.25V4H4v6h9v-.25c0-.414.336-.75.75-.75h1.5c.414,0,.75.336.75.75v1.5c0,.414-.336.75-.75.75h-1.5c-.414,0-.75-.336-.75-.75v-.25H4v6h11v-4h1.25c.414,0,.75-.336.75-.75v-3.5c0-.414-.336-.75-.75-.75Z"/>
+</svg>

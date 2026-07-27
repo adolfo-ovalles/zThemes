@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zLight" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .4;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #3a3a3a;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="6.5" y="7.5" width="13" height="11"/>
+  <path class="cls-2" d="M6,8c0-.552.448-1,1-1h12c.552,0,1,.448,1,1v10c0,.552-.448,1-1,1H7c-.552,0-1-.448-1-1v-10ZM19,18v-10H7v10h12Z"/>
+  <polygon class="cls-2" points="19 23 23 23 23 19 19 23"/>
+</svg>

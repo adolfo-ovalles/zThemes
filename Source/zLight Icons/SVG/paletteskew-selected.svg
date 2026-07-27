@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zLight" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a7a7a7;
+      }
+
+      .cls-2 {
+        fill: #d2d2d2;
+      }
+
+      .cls-3 {
+        fill: #3a3a3a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="1" y="1" width="24" height="24" rx="2" ry="2" transform="translate(26 0) rotate(90)"/>
+  <rect class="cls-2" x="2" y="2" width="22" height="22" rx="1" ry="1" transform="translate(26 0) rotate(90)"/>
+  <path class="cls-3" d="M20.499,10h-5.573c-.379,0-.725.214-.894.553l-2.032,4.064v-4.214c0-.222-.182-.402-.407-.402h-5.187c-.224,0-.407.18-.407.402v9.195c0,.222.182.402.407.402h9.284c.379,0,.725-.214.894-.553l4.362-8.724c.166-.332-.076-.724-.447-.724ZM15.691,19h-4.764l4-8h4.764l-4,8ZM15,7h-6v-1h6v-1.61c0-.262.313-.398.505-.219l2.495,2.329-2.495,2.329c-.192.179-.505.043-.505-.219v-1.61Z"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zLight" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3a3a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M12,12.5v1.5h1.25v1.15h-6.5v-1.15h1.25v-1.5h4Z"/>
+  <path class="cls-1" d="M17,4v8c0,.552-.448,1-1,1H4c-.552,0-1-.448-1-1V4c0-.552.448-1,1-1h12c.552,0,1,.448,1,1ZM15.85,11.85v-7.7H4.15v7.7h11.7Z"/>
+</svg>

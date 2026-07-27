@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .4;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #d4d4d4;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="3" y="6" width="13" height="6"/>
+  <g>
+    <polygon class="cls-2" points="11 11 8 11 8 12 3 12 3 13 8 13 8 14 11 14 11 13 16 13 16 12 11 12 11 11"/>
+    <polygon class="cls-2" points="11 5 11 4 8 4 8 5 3 5 3 6 8 6 8 7 11 7 11 6 16 6 16 5 11 5"/>
+  </g>
+</svg>

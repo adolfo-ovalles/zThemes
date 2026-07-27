@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d4d4d4;
+      }
+
+      .cls-2 {
+        fill: #ff0;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="4" y="3" width="12" height="12" rx="1" ry="1"/>
+  <rect class="cls-2" x="5" y="4" width="10" height="10"/>
+</svg>

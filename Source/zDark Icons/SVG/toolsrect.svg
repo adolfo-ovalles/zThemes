@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d4d4d4;
+        opacity: .4;
+      }
+
+      .cls-2 {
+        fill: #d4d4d4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M15.5,3.5H3.5v11h12V3.5"/>
+  <path class="cls-2" d="M4,3h11c.552,0,1,.448,1,1v10c0,.552-.448,1-1,1H4c-.552,0-1-.448-1-1V4c0-.552.448-1,1-1ZM15,14V4H4v10h11Z"/>
+</svg>
