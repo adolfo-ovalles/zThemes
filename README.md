@@ -9,7 +9,7 @@ Created by [Adolfo Ovalles](https://www.behance.net/adolfo_ovalles)
 ## Features
 
 ☑️ **Dual color palettes** inspired by Adobe apps' dark and light modes.</br>
-☑️ **310 rebuilt icons,** including Debug dialog icons.</br>
+☑️ **316 rebuilt icons,** including Debug dialog icons.</br>
 ☑️ **Pixel-perfect adjustments** for optimal clarity at native FontForge render size (72dpi).</br>
 ☑️ **Cleaned pixmaps folder** containing only tested icons and required files.</br>
 ☑️ **Legacy icon set** included in a separate folder for backwards compatibility.</br>
@@ -30,18 +30,9 @@ Created by [Adolfo Ovalles](https://www.behance.net/adolfo_ovalles)
     📂 UNIX → /usr/share/fontforge/pixmaps`
     </pre>
 
-3. Copy the contents of the **`pixmaps`** folder from the extracted zTheme and overwrite your FontForge **`pixmaps`** folder.
+3. Copy the **`pixmaps`** folder from the extracted zTheme and overwrite your FontForge **`pixmaps`** folder.
 
-4. Launch FontForge, go to **File → Preferences → Generic → ResourceFile.**
-
-5. Browse to and select either:</br>
-
-    <pre>
-    zDark.theme ➡️ for dark mode.</br>
-    zLight.theme ➡️ for light mode.
-    </pre>
-
-6. Restart FontForge to apply the theme.
+4. Launch FontForge, **enjoy!**
 
 ## Screenshosts
 
@@ -70,4 +61,4 @@ To support community contributions, the repository provides [Source files releas
 > The source files ensure **zThemes** can continue to grow with FontForge, even without my direct involvement.
 
 ---
-[Released under MIT License](https://github.com/adolfo-ovalles/zThemes/blob/941fb1096e81c23282a2dec6c4c4e3698c5104c5/LICENSE) © 2021–2025 Adolfo Ovalles.
+[Released under MIT License](https://github.com/adolfo-ovalles/zThemes/blob/941fb1096e81c23282a2dec6c4c4e3698c5104c5/LICENSE) © 2021–2026 Adolfo Ovalles.
