@@ -27,17 +27,17 @@ Set the same icon file (overlaprm.png) to the menu option `Remove Overlap` in Me
 
 Below a list of files icnos that seem not used:
 
-|    changeweight.png    |  fileclose2.png  |    paletteselectedbg.png    |
-|:----------------------:|:----------------:|:---------------------------:|
-| elementtilepath.png    | fliphor.png      | palettespirodisabled.png    |
-| elementtilepattern.png | flipvert.png     | palettespiroup-selected.png |
-| exclude.png            | inline.png       | rotate180.png               |
-| extendcondense.png     | intersection.png | rotateccw.png               |
-| fflogo.png             | oblique.png      | rotatecw.png                |
-| fflogo13.png           | outline.png      | shadow.png                  |
-| ffsplash1.png          | text12210.png    | skew.png                    |
-| ffsplash2.png          | wireframe.png    | splash2019.png              |
-| ffsplash3.png          |                  | rmoverlap.png*              |
+| changeweight.png | fileclose2.png | paletteselectedbg.png |
+| --- | --- | --- |
+| elementtilepath.png | fliphor.png | palettespirodisabled.png |
+| elementtilepattern.png | flipvert.png | palettespiroup-selected.png |
+| exclude.png | inline.png | rotate180.png |
+| extendcondense.png | intersection.png | rotateccw.png |
+| fflogo.png | oblique.png | rotatecw.png |
+| fflogo13.png | outline.png | shadow.png |
+| ffsplash1.png | text12210.png | skew.png |
+| ffsplash2.png | wireframe.png | splash2019.png |
+| ffsplash3.png |  | rmoverlap.png* |
 
 > `rmoverlap.png` is in use, but is duplicate of `overlaprm.png`
 
@@ -63,4 +63,4 @@ Replace and add new custom icons for `Expand Stroke` dialog.
 
 ---
 
-[Released under MIT License](https://github.com/adolfo-ovalles/zThemes/blob/941fb1096e81c23282a2dec6c4c4e3698c5104c5/LICENSE) © 2025 Adolfo Ovalles.
+[Released under MIT License](https://github.com/adolfo-ovalles/zThemes/blob/941fb1096e81c23282a2dec6c4c4e3698c5104c5/LICENSE) © 2026 Adolfo Ovalles.

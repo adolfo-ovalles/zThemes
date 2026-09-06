@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
+<svg id="zLight_copy" data-name="zLight copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
   <defs>
     <style>
       .cls-1 {
-        opacity: .4;
+        fill: #a7a7a7;
       }
 
-      .cls-1, .cls-2 {
-        fill: #d4d4d4;
+      .cls-2 {
+        fill: #d2d2d2;
       }
 
-      .cls-3 {
-        fill: #999;
-        fill-rule: evenodd;
+      .cls-3, .cls-4, .cls-5 {
+        fill: #3a3a3a;
       }
 
       .cls-4 {
-        fill: #525252;
+        opacity: .4;
       }
 
       .cls-5 {
-        fill: #1f1f1f;
+        fill-rule: evenodd;
       }
     </style>
   </defs>
-  <rect class="cls-4" x="1" y="1" width="24" height="24" rx="2" ry="2" transform="translate(26 0) rotate(90)"/>
-  <rect class="cls-5" x="2" y="2" width="22" height="22" rx="1" ry="1" transform="translate(26 0) rotate(90)"/>
-  <polygon class="cls-1" points="16.612 7.5 20 13 16.612 18.5 9.388 18.5 6 13 9.388 7.5 16.612 7.5"/>
-  <path class="cls-2" d="M8.845,18.519l-3.031-5c-.193-.319-.193-.718,0-1.037l3.031-5c.181-.299.506-.482.855-.482h6.599c.35,0,.674.183.855.482l3.031,5c.193.319.193.718,0,1.037l-3.031,5c-.181.299-.506.482-.855.482h-6.599c-.35,0-.674-.183-.855-.482ZM16.3,18l3.031-5-3.031-5h-6.6l-3.031,5,3.031,5h6.6Z"/>
-  <polygon class="cls-3" points="19 23 23 23 23 19 19 23"/>
+  <rect class="cls-1" x="1" y="1" width="24" height="24" rx="2" ry="2" transform="translate(26 0) rotate(90)"/>
+  <rect class="cls-2" x="2" y="2" width="22" height="22" rx="1" ry="1" transform="translate(26 0) rotate(90)"/>
+  <polygon class="cls-4" points="16.612 7.5 20 13 16.612 18.5 9.388 18.5 6 13 9.388 7.5 16.612 7.5"/>
+  <path class="cls-3" d="M8.845,18.519l-3.031-5c-.193-.319-.193-.718,0-1.037l3.031-5c.181-.299.506-.482.855-.482h6.599c.35,0,.674.183.855.482l3.031,5c.193.319.193.718,0,1.037l-3.031,5c-.181.299-.506.482-.855.482h-6.599c-.35,0-.674-.183-.855-.482ZM16.3,18l3.031-5-3.031-5h-6.6l-3.031,5,3.031,5h6.6Z"/>
+  <polygon class="cls-5" points="19 23 23 23 23 19 19 23"/>
 </svg>

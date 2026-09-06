@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
+<svg id="zLight_copy" data-name="zLight copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
   <defs>
     <style>
       .cls-1 {
-        opacity: .4;
+        fill: #a7a7a7;
       }
 
-      .cls-1, .cls-2 {
-        fill: #d4d4d4;
+      .cls-2 {
+        fill: #d2d2d2;
       }
 
       .cls-3 {
-        fill: #999;
+        opacity: .4;
       }
 
-      .cls-3, .cls-2 {
-        fill-rule: evenodd;
+      .cls-3, .cls-4 {
+        fill: #3a3a3a;
       }
 
       .cls-4 {
-        fill: #525252;
-      }
-
-      .cls-5 {
-        fill: #1f1f1f;
+        fill-rule: evenodd;
       }
     </style>
   </defs>
-  <rect class="cls-4" x="1" y="1" width="24" height="24" rx="2" ry="2" transform="translate(26 0) rotate(90)"/>
-  <rect class="cls-5" x="2" y="2" width="22" height="22" rx="1" ry="1" transform="translate(26 0) rotate(90)"/>
-  <rect class="cls-1" x="6.5" y="7.5" width="13" height="11"/>
-  <path class="cls-2" d="M6,8c0-.552.448-1,1-1h12c.552,0,1,.448,1,1v10c0,.552-.448,1-1,1H7c-.552,0-1-.448-1-1v-10ZM19,18v-10H7v10h12Z"/>
-  <polygon class="cls-3" points="19 23 23 23 23 19 19 23"/>
+  <rect class="cls-1" x="1" y="1" width="24" height="24" rx="2" ry="2" transform="translate(26 0) rotate(90)"/>
+  <rect class="cls-2" x="2" y="2" width="22" height="22" rx="1" ry="1" transform="translate(26 0) rotate(90)"/>
+  <rect class="cls-3" x="6.5" y="7.5" width="13" height="11"/>
+  <path class="cls-4" d="M6,8c0-.552.448-1,1-1h12c.552,0,1,.448,1,1v10c0,.552-.448,1-1,1H7c-.552,0-1-.448-1-1v-10ZM19,18v-10H7v10h12Z"/>
+  <polygon class="cls-4" points="19 23 23 23 23 19 19 23"/>
 </svg>

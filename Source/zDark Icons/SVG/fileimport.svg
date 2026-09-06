@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+<svg id="zLight_copy" data-name="zLight copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
   <defs>
     <style>
-      .cls-1 {
-        fill-rule: evenodd;
+      .cls-1, .cls-2 {
+        fill: #3a3a3a;
       }
 
-      .cls-1, .cls-2 {
-        fill: #d4d4d4;
+      .cls-2 {
+        fill-rule: evenodd;
       }
     </style>
   </defs>
   <g>
-    <polygon class="cls-2" points="12 2 12 5 15 5 12 2"/>
-    <path class="cls-2" d="M11,2h-6v6h1v-.324c0-.689.562-1.25,1.252-1.25.365,0,.71.16.948.439l3.117,3.636-3.119,3.638c-.236.277-.581.437-.946.437-.69,0-1.252-.561-1.252-1.25v-.324h-1v3h10V6h-4V2Z"/>
+    <polygon class="cls-1" points="12 2 12 5 15 5 12 2"/>
+    <path class="cls-1" d="M11,2h-6v6h1v-.324c0-.689.562-1.25,1.252-1.25.365,0,.71.16.948.439l3.117,3.636-3.119,3.638c-.236.277-.581.437-.946.437-.69,0-1.252-.561-1.252-1.25v-.324h-1v3h10V6h-4V2Z"/>
   </g>
-  <path class="cls-1" d="M7.44,7.513c-.151-.176-.44-.069-.44.163v1.324H3v3h4v1.324c0,.232.289.339.44.163l2.56-2.987-2.56-2.987Z"/>
+  <path class="cls-2" d="M7.44,7.513c-.151-.176-.44-.069-.44.163v1.324H3v3h4v1.324c0,.232.289.339.44.163l2.56-2.987-2.56-2.987Z"/>
 </svg>

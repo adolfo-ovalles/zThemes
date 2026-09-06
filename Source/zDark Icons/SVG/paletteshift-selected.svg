@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="zDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
+<svg id="zLight_copy" data-name="zLight copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26">
   <defs>
     <style>
       .cls-1 {
-        fill: #525252;
+        fill: #a7a7a7;
       }
 
       .cls-2 {
-        fill: #d4d4d4;
-        fill-rule: evenodd;
+        fill: #d2d2d2;
       }
 
       .cls-3 {
-        fill: #1f1f1f;
+        fill: #3a3a3a;
+        fill-rule: evenodd;
       }
     </style>
   </defs>
   <rect class="cls-1" x="1" y="1" width="24" height="24" rx="2" ry="2" transform="translate(26) rotate(90)"/>
-  <rect class="cls-3" x="2" y="2" width="22" height="22" rx="1" ry="1" transform="translate(26) rotate(90)"/>
-  <path class="cls-2" d="M17.498,9.934c-.194-.17-.498-.032-.498.226v1.84h-3v-3h1.84c.258,0,.396-.304.226-.498l-3.066-3.502-3.066,3.502c-.17.194-.032.498.226.498h1.84v3h-3v-1.839c0-.258-.304-.396-.498-.226l-3.502,3.065,3.502,3.065c.194.17.498.032.498-.226v-1.839h3v3h-1.839c-.258,0-.396.304-.226.498l3.065,3.502,3.065-3.502c.17-.194.032-.498-.226-.498h-1.839v-3h3v1.84c0,.258.304.396.498.226l3.503-3.066-3.503-3.066Z"/>
+  <rect class="cls-2" x="2" y="2" width="22" height="22" rx="1" ry="1" transform="translate(26) rotate(90)"/>
+  <path class="cls-3" d="M21,13l-3.503,3.066c-.194.17-.498.032-.498-.226v-1.84h-3v3h1.839c.258,0,.396.304.226.498l-3.065,3.502-3.065-3.502c-.17-.194-.032-.498.226-.498h1.839v-3h-3v1.839c0,.258-.304.396-.498.226l-3.502-3.065,3.502-3.065c.194-.17.498-.032.498.226v1.839h3v-3h-1.84c-.258,0-.396-.304-.226-.498l3.066-3.502,3.066,3.502c.17.194.032.498-.226.498h-1.84v3h3v-1.84c0-.258.304-.396.498-.226l3.503,3.066Z"/>
 </svg>

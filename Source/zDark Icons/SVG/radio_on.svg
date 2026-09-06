@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="zLight_copy" data-name="zLight copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6d6d6d;
+      }
+
+      .cls-2 {
+        fill: #f5f5f5;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="6.25" cy="6.25" r="6.25"/>
+  <circle class="cls-2" cx="6.25" cy="6.25" r="1.969"/>
+</svg>
